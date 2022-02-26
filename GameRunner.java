@@ -1,6 +1,8 @@
 package nim;
+
 import java.util.Scanner;
 import java.lang.Math;
+import package1.package2.Methods;
 
 /**
  * Project 2.5.11
@@ -89,7 +91,7 @@ public class GameRunner {
           if (playagain.equals("yes")) {
           }
           // ends while loop
-          else  {
+          else {
             playy = 2;
           }
         }
@@ -107,7 +109,7 @@ public class GameRunner {
           if (playagain.equals("yes")) {
           }
           // breaks while loop
-          else  {
+          else {
             playy = 2;
           }
         }

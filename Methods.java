@@ -2,6 +2,7 @@ package nim;
 
 import java.util.Scanner;
 import java.lang.Math;
+import package1.package2.Methods;
 
 public class Methods {
     static int turnOne(String player1, String player2) {
